@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pericoferrerHZweb
 A website about Perico Ferrer
 
